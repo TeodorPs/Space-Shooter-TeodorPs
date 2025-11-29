@@ -360,7 +360,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 383e6b57c41734347b1c12ef8822babf, type: 2}
+    - {fileID: 11400000, guid: 9a2745184ce909e44b208fb5f3ef32a9, type: 2}
 --- !u!114 &850308949
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -555,6 +555,18 @@ PrefabInstance:
     - target: {fileID: 3732453306787248770, guid: 0428549d6b5e7b2478c9bda1f173795f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4437475746562872805, guid: 0428549d6b5e7b2478c9bda1f173795f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.07999988
+      objectReference: {fileID: 0}
+    - target: {fileID: 5223684819846299901, guid: 0428549d6b5e7b2478c9bda1f173795f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5700001
+      objectReference: {fileID: 0}
+    - target: {fileID: 6810067578345353544, guid: 0428549d6b5e7b2478c9bda1f173795f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.08
       objectReference: {fileID: 0}
     - target: {fileID: 8770311842965703389, guid: 0428549d6b5e7b2478c9bda1f173795f, type: 3}
       propertyPath: m_Name
